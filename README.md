@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wowthecoder&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wowthecoder&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wowthecoder&theme=solarized)
